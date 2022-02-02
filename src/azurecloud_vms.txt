@@ -1,0 +1,89 @@
+{
+    "value": [
+        {
+                    "name": "legion-vm",
+                    "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/HEIMDALLS-TEST/providers/Microsoft.Compute/virtualMachines/legion-vm",
+                    "type": "Microsoft.Compute/virtualMachines",
+                    "location": "eastus",
+                    "tags": {
+                        "legion": "dev"
+                    },
+                    "properties": {
+                        "vmId": "51ae669d-9132-42dc-9d3d-b7e8a0076b83",
+                        "hardwareProfile": {
+                            "vmSize": "Standard_D2s_v3"
+                        },
+                        "storageProfile": {
+                            "imageReference": {
+                                "publisher": "canonical",
+                                "offer": "0001-com-ubuntu-server-focal",
+                                "sku": "20_04-lts",
+                                "version": "latest",
+                                "exactVersion": "20.04.202106230"
+                            },
+                            "osDisk": {
+                                "osType": "Linux",
+                                "name": "legion-vm-2_OsDisk_1_8a1c3f8447f14a0bbd9be9cc2df439c2",
+                                "createOption": "FromImage",
+                                "caching": "ReadWrite",
+                                "managedDisk": {
+                                    "storageAccountType": "Premium_LRS",
+                                    "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Heimdalls-Test/providers/Microsoft.Compute/disks/legion-extradisk"
+                                },
+                                "diskSizeGB": 30
+                            },
+                            "dataDisks": [
+                                {
+                                    "lun": 0,
+                                    "name": "legion-extradisk",
+                                    "createOption": "Attach",
+                                    "caching": "None",
+                                    "writeAcceleratorEnabled": false,
+                                    "managedDisk": {
+                                        "storageAccountType": "Premium_LRS",
+                                        "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Heimdalls-Test/providers/Microsoft.Compute/disks/legion-extradisk"
+                                    },
+                                    "diskSizeGB": 1,
+                                    "toBeDetached": false
+                                }
+                            ]
+                        },
+                        "osProfile": {
+                            "computerName": "legion-vm-2",
+                            "adminUsername": "azureuser",
+                            "linuxConfiguration": {
+                                "disablePasswordAuthentication": true,
+                                "ssh": {
+                                    "publicKeys": [
+                                        {
+                                            "path": "/home/azureuser/.ssh/authorized_keys",
+                                            "keyData": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCmgZ1pQCMk04/zzd/VV+Q8V2kK\r\nJVz+PRXCNtVRwrqLEob6cHd6KybUZvX2LWvL68HfclwLRHyLkt+lBgrsrQ061mid\r\n5oKOBdDddsZJTK2MylOl/w/JKV7EvIy1MVI+Lw695iw4PVXy8uSsL/YHEGaVEBGp\r\n80/HbGX8MuDdhCZH7i45URsKCmz0v7E+4PEXyBVMMZJE2y608HcYJyxGb1MJwKvY\r\nOovPLe4CP7wVeIUhEdgn59eohh73PldR4gj1PiJXpRGm00uSJZpCmF8VMrb1FO38\r\nunmiB+bqKO53pA2KmoTtYRerOl9DVhIy/H7Flx8iR9o0eBG0LkF/WroH/vhqX2vw\r\nR92usVMFjQVd9OqCLnHATDCH73Y+iFshtef32zHLDoE8VQ+asOYke5phB4UFrOt8\r\nFBE3OKmtv02bMO/4zK+n2IsUK/yJgxgSnEEG71+XF+iNaeNPNPT9RiCi+q2DuqPx\r\n29sbXi/m8LGcAS6XoQ+ddODLF9vY8G/B4jh2+s0= generated-by-azure\r\n"
+                                        }
+                                    ]
+                                },
+                                "provisionVMAgent": true,
+                                "patchSettings": {
+                                    "patchMode": "ImageDefault",
+                                    "assessmentMode": "ImageDefault"
+                                }
+                            },
+                            "secrets": [],
+                            "allowExtensionOperations": true,
+                            "requireGuestProvisionSignal": true
+                        },
+                        "networkProfile": {
+                            "networkInterfaces": [
+                                {
+                                    "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Heimdalls-Test/providers/Microsoft.Network/networkInterfaces/network-interface"
+                                }
+                            ]
+                        },
+                        "provisioningState": "Succeeded"
+                    },
+                    "zones": [
+                        "2"
+                    ]
+                }
+    ],
+    "nextLink":"http://localhost:8084/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/providers/Microsoft.Compute/virtualMachines"
+}

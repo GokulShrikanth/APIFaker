@@ -1,0 +1,14 @@
+{
+    "value": [
+        {
+            "id": "f9SeOXOJlkySFl5YEpHeHl_lxyLNHSRLpIc9dnxRmM4",
+            "creationTimestamp": "2020-09-19T07:24:38.9873435Z",
+            "appRoleId": "9e79c739-f165-49e8-8745-fe08f1634b3b",
+            "principalDisplayName": "SSO-GSuite-User",
+            "principalId": "399ed47f-8973-4c96-9216-5e581291de1e",
+            "principalType": "Group",
+            "resourceDisplayName": "Gmail",
+            "resourceId": "4e898419-2a99-40ab-b5d0-2deabd57b0d5"
+        }
+    ]
+}

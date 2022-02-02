@@ -1,0 +1,14 @@
+{
+    "plan_base": {
+        "type": "monthly",
+        "hosts": 3,
+        "usage": 1
+    },
+    "plan_recording": {
+        "free_storage": "3 GB",
+        "free_storage_usage": "0",
+        "plan_storage": "0",
+        "plan_storage_usage": "0",
+        "plan_storage_exceed": "0"
+    }
+}

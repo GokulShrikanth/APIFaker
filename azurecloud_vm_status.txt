@@ -1,0 +1,31 @@
+{
+    "value": [
+        {
+                    "name": "legion-vm",
+                    "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/HEIMDALLS-TEST/providers/Microsoft.Compute/virtualMachines/legion-vm",
+                    "type": "Microsoft.Compute/virtualMachines",
+                    "location": "eastus",
+                    "properties": {
+                        "vmId": "51ae669d-9132-42dc-9d3d-b7e8a0076b83",
+                        "hardwareProfile": {},
+                        "provisioningState": "Succeeded",
+                        "instanceView": {
+                            "statuses": [
+                                {
+                                    "code": "ProvisioningState/succeeded",
+                                    "level": "Info",
+                                    "displayStatus": "Provisioning succeeded",
+                                    "time": "2021-07-06T06:39:51.2084606+00:00"
+                                },
+                                {
+                                    "code": "PowerState/running",
+                                    "level": "Info",
+                                    "displayStatus": "VM running"
+                                }
+                            ]
+                        }
+                    }
+                }
+    ],
+    "nextLink":"http://localhost:8080/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/providers/Microsoft.Compute/virtualMachines?api-version=2021-04-01&statusOnly=true"
+}

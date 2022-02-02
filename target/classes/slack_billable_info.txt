@@ -1,0 +1,80 @@
+{
+    "ok": true,
+    "billable_info": {
+        "W01CAQMKL0Z": {
+            "billing_active": true
+        },
+        "W01CX0LQGTS": {
+            "billing_active": true
+        },
+        "W01BTTJ7TGS": {
+            "billing_active": true
+        },
+        "W01BY646N3U": {
+            "billing_active": true
+        },
+        "W01CTJKAN4Q": {
+            "billing_active": true
+        },
+        "U01C2S3BHV4": {
+            "billing_active": true
+        },
+        "W01C3V9NGP5": {
+            "billing_active": true
+        },
+        "W01CN1H2PFS": {
+            "billing_active": false
+        },
+        "W01BP1ECYHM": {
+            "billing_active": true
+        },
+        "W01C4BSA0JY": {
+            "billing_active": false
+        },
+        "U01CQK54RJ5": {
+            "billing_active": false
+        },
+        "U01CURTTGLW": {
+            "billing_active": false
+        },
+        "U01DAKDUAKT": {
+            "billing_active": false
+        },
+        "U01DQ1B13JR": {
+            "billing_active": false
+        },
+        "U01DY2JB1LL": {
+            "billing_active": true
+        },
+        "U01E5S1CB33": {
+            "billing_active": true
+        },
+        "U01FE7VB9GW": {
+            "billing_active": true
+        },
+        "U01FHPE0BJT": {
+            "billing_active": true
+        },
+        "U01FJ6MLR9U": {
+            "billing_active": false
+        },
+        "U01FX3DT89J": {
+            "billing_active": false
+        },
+        "U01G7U925QR": {
+            "billing_active": false
+        },
+        "U01GA785F6H": {
+            "billing_active": false
+        },
+        "U01GDG3HK4P": {
+            "billing_active": true
+        },
+        "U01H1F2US5N": {
+            "billing_active": true
+        },
+        "U01J2R8GSEN": {
+            "billing_active": false
+        }
+    }
+}

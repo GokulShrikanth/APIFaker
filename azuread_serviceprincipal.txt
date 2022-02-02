@@ -1,0 +1,139 @@
+{
+    "value": [
+        {
+            "id": "4e898419-2a99-40ab-b5d0-2deabd57b0d5",
+            "deletedDateTime": null,
+            "accountEnabled": true,
+            "alternativeNames": [],
+            "createdDateTime": "2020-09-19T07:07:03Z",
+            "deviceManagementAppType": null,
+            "appDescription": null,
+            "appDisplayName": "Gmail",
+            "appId": "31a15b90-df73-4e6e-89e6-e2944a8eda38",
+            "applicationTemplateId": null,
+            "appOwnerOrganizationId": "8a791446-3f74-41af-be7d-470e2f985275",
+            "appRoleAssignmentRequired": true,
+            "description": null,
+            "displayName": "Gmail",
+            "errorUrl": null,
+            "homepage": "https://www.google.com?metadata=googleapps|ISV9.1|primary|z",
+            "isAuthorizationServiceEnabled": false,
+            "isManagementRestricted": null,
+            "loginUrl": "https://www.google.com/a/freshworks.com/ServiceLogin?continue=https://mail.google.com",
+            "logoutUrl": null,
+            "notes": null,
+            "notificationEmailAddresses": [
+                "maselvam@freshworks.com"
+            ],
+            "preferredSingleSignOnMode": "saml",
+            "preferredTokenSigningKeyEndDateTime": "2023-09-19T07:07:55Z",
+            "preferredTokenSigningKeyThumbprint": "6E4771D13077A204FE4BA3FA82E41C0A596736FC",
+            "publisherName": "freshworks.com",
+            "replyUrls": [
+                "https://www.google.com/a/freshworks.com"
+            ],
+            "samlMetadataUrl": null,
+            "servicePrincipalNames": [
+                "google.com/a/freshworks.com",
+                "31a15b90-df73-4e6e-89e6-e2944a8eda38"
+            ],
+            "servicePrincipalType": "Application",
+            "signInAudience": "AzureADMyOrg",
+            "tags": [
+                "01303a13-8322-4e06-bee5-80d612907131",
+                "WindowsAzureActiveDirectoryGalleryApplicationPrimaryV1",
+                "WindowsAzureActiveDirectoryIntegratedApp"
+            ],
+            "tokenEncryptionKeyId": null,
+            "verifiedPublisher": {
+                "displayName": null,
+                "verifiedPublisherId": null,
+                "addedDateTime": null
+            },
+            "addIns": [],
+            "api": {
+                "resourceSpecificApplicationPermissions": []
+            },
+            "appRoles": [
+                {
+                    "allowedMemberTypes": [
+                        "User"
+                    ],
+                    "description": "msiam_access",
+                    "displayName": "msiam_access",
+                    "id": "8eea5c46-96fe-4398-b9c2-02ac04d931ca",
+                    "isEnabled": true,
+                    "origin": "Application",
+                    "value": null
+                },
+                {
+                    "allowedMemberTypes": [
+                        "User"
+                    ],
+                    "description": "Default Organization",
+                    "displayName": "Default Organization",
+                    "id": "9e79c739-f165-49e8-8745-fe08f1634b3b",
+                    "isEnabled": true,
+                    "origin": "Application",
+                    "value": null
+                }
+            ],
+            "info": {
+                "termsOfServiceUrl": null,
+                "supportUrl": null,
+                "privacyStatementUrl": null,
+                "marketingUrl": null,
+                "logoUrl": "https://secure.aadcdn.microsoftonline-p.com/447973e2-pnrfsiauvvzltqygehr72ank2pzduinvewuch4br2b4/appbranding/5z7pbdpupxng4hua73bcbjkeo5xo3h76xaq0csfjsd0/1033/bannerlogo?ts=637361195503708090"
+            },
+            "keyCredentials": [
+                {
+                    "customKeyIdentifier": "kBWHlTgKXOOjOtjoOb+24jg4RyhoGjHP0HNemWlvVZk=",
+                    "endDateTime": "2023-09-19T07:07:55Z",
+                    "keyId": "cb278894-e55c-412b-9ebf-b0fb9a3bec6e",
+                    "startDateTime": "2020-09-19T07:07:55Z",
+                    "type": "AsymmetricX509Cert",
+                    "usage": "Verify",
+                    "key": null,
+                    "displayName": "CN=Microsoft Azure Federated SSO Certificate"
+                },
+                {
+                    "customKeyIdentifier": "kBWHlTgKXOOjOtjoOb+24jg4RyhoGjHP0HNemWlvVZk=",
+                    "endDateTime": "2023-09-19T07:07:55Z",
+                    "keyId": "fe881395-0e21-484e-935b-eda294f7799c",
+                    "startDateTime": "2020-09-19T07:07:55Z",
+                    "type": "AsymmetricX509Cert",
+                    "usage": "Sign",
+                    "key": null,
+                    "displayName": "CN=Microsoft Azure Federated SSO Certificate"
+                }
+            ],
+            "publishedPermissionScopes": [
+                {
+                    "adminConsentDescription": "Allow the application to access Google Cloud / G Suite Connector by Microsoft on behalf of the signed-in user.",
+                    "adminConsentDisplayName": "Access Google Cloud / G Suite Connector by Microsoft",
+                    "id": "cd6ad03a-70e0-41e4-b8b6-b4accad0f152",
+                    "isEnabled": true,
+                    "type": "User",
+                    "userConsentDescription": "Allow the application to access Google Cloud / G Suite Connector by Microsoft on your behalf.",
+                    "userConsentDisplayName": "Access Google Cloud / G Suite Connector by Microsoft",
+                    "value": "user_impersonation"
+                }
+            ],
+            "passwordCredentials": [
+                {
+                    "customKeyIdentifier": "kBWHlTgKXOOjOtjoOb+24jg4RyhoGjHP0HNemWlvVZk=",
+                    "endDateTime": "2023-09-19T07:07:55Z",
+                    "keyId": "fe881395-0e21-484e-935b-eda294f7799c",
+                    "startDateTime": "2020-09-19T07:07:55Z",
+                    "secretText": null,
+                    "hint": null,
+                    "displayName": "CN=Microsoft Azure Federated SSO Certificate"
+                }
+            ],
+            "resourceSpecificApplicationPermissions": [],
+            "samlSingleSignOnSettings": {
+                "relayState": ""
+            }
+        }
+    ]
+}

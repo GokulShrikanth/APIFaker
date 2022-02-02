@@ -1,0 +1,112 @@
+[
+    {
+        "actor": {
+            "id": "00udw4gj9AfcLe2eB4x6",
+            "type": "User",
+            "alternateId": "snfsaas@gmail.com",
+            "displayName": "SNF Saas",
+            "detailEntry": null
+        },
+        "client": {
+            "userAgent": {
+                "rawUserAgent": "Okta-Integrations",
+                "os": "Unknown",
+                "browser": "UNKNOWN"
+            },
+            "zone": "null",
+            "device": "Unknown",
+            "id": "okta.b58d5b75-07d4-5f25-bf59-368a1261a405",
+            "ipAddress": "18.220.28.44",
+            "geographicalContext": {
+                "city": null,
+                "state": null,
+                "country": "United States",
+                "postalCode": null,
+                "geolocation": {
+                    "lat": 37.751,
+                    "lon": -97.822
+                }
+            }
+        },
+        "authenticationContext": {
+            "authenticationProvider": null,
+            "credentialProvider": null,
+            "credentialType": null,
+            "issuer": null,
+            "interface": null,
+            "authenticationStep": 0,
+            "externalSessionId": "unknown"
+        },
+        "displayMessage": "User single sign on to app",
+        "eventType": "user.authentication.sso",
+        "outcome": {
+            "result": "SUCCESS",
+            "reason": null
+        },
+        "published": "2021-01-26T19:09:43.425Z",
+        "securityContext": {
+            "asNumber": null,
+            "asOrg": null,
+            "isp": null,
+            "domain": null,
+            "isProxy": null
+        },
+        "severity": "INFO",
+        "debugContext": {
+            "debugData": {
+                "initiationType": "NA",
+                "redirectUri": "https://dev-597145-admin.okta.com/admin/sso/callback",
+                "requestId": "YBBo92o0J4qvwgOphUIlFgAAFYA",
+                "signOnMode": "OpenID Connect",
+                "requestUri": "/oauth2/v1/token",
+                "threatSuspected": "false",
+                "url": "/oauth2/v1/token?"
+            }
+        },
+        "legacyEventType": "app.auth.sso",
+        "transaction": {
+            "type": "WEB",
+            "id": "YBBo92o0J4qvwgOphUIlFgAAFYA",
+            "detail": {}
+        },
+        "uuid": "0c1f4f57-600a-11eb-b732-5d69bd3a866f",
+        "version": "0",
+        "request": {
+            "ipChain": [
+                {
+                    "ip": "18.220.28.44",
+                    "geographicalContext": {
+                        "city": null,
+                        "state": null,
+                        "country": "United States",
+                        "postalCode": null,
+                        "geolocation": {
+                            "lat": 37.751,
+                            "lon": -97.822
+                        }
+                    },
+                    "version": "V4",
+                    "source": null
+                }
+            ]
+        },
+        "target": [
+            {
+                "id": "0oadw2mtxXg78DZHc4x6",
+                "type": "AppInstance",
+                "alternateId": "Okta Admin Console",
+                "displayName": "Okta Admin Console",
+                "detailEntry": {
+                    "signOnModeType": "OPENID_CONNECT"
+                }
+            },
+            {
+                "id": "0uadw4gjdfV7cLaPw4x6",
+                "type": "AppUser",
+                "alternateId": "unknown",
+                "displayName": "SNF Saas",
+                "detailEntry": null
+            }
+        ]
+    }
+]

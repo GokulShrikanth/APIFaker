@@ -1,0 +1,96 @@
+{
+    "members": [
+        {
+            "profile": {
+                "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ",
+                "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                "email": "sumit.sawant@freshworks.com",
+                "email_verified": true,
+                "secondary_emails": [],
+                "status": {
+                    ".tag": "active"
+                },
+                "name": {
+                    "given_name": "Sumit",
+                    "surname": "Sawant",
+                    "familiar_name": "Sumit",
+                    "display_name": "Sumit Sawant",
+                    "abbreviated_name": "SS"
+                },
+                "membership_type": {
+                    ".tag": "full"
+                },
+                "joined_on": "2020-11-20T11:23:08Z",
+                "profile_photo_url": "https://dl-web.dropbox.com/account_photo/get/dbaphid%3AAACKneiLG-ShoN3w1QG4rRVay1fJgTa_cR0?size=128x128&vers=1611743752137",
+                "groups": [
+                    "g:d0998e584f4615a40000000000000002"
+                ],
+                "member_folder_id": "8700722560"
+            },
+            "role": {
+                ".tag": "team_admin"
+            }
+        },
+        {
+            "profile": {
+                "team_member_id": "dbmid:AAAnwocM7uDpz7ENzjehg47T_CsZss2cjvk",
+                "account_id": "dbid:AAAx4SmhD-sk6OvgrZRDeTTMPmK99OTx_Eg",
+                "email": "bnb.gsuite@gmail.com",
+                "email_verified": true,
+                "secondary_emails": [],
+                "status": {
+                    ".tag": "active"
+                },
+                "name": {
+                    "given_name": "Starforce",
+                    "surname": "BNB",
+                    "familiar_name": "Starforce",
+                    "display_name": "Starforce BNB",
+                    "abbreviated_name": "SB"
+                },
+                "membership_type": {
+                    ".tag": "full"
+                },
+                "joined_on": "2020-11-20T11:20:08Z",
+                "groups": [
+                    "g:d0998e584f4615a40000000000000002",
+                    "g:d0998e584f4615a4000000000000007e"
+                ],
+                "member_folder_id": "8698078496"
+            },
+            "role": {
+                ".tag": "team_admin"
+            }
+        },
+        {
+            "profile": {
+                "team_member_id": "dbmid:AADiDRTw0KURSMRsxkXyWzWRaPoABhj07Ls",
+                "account_id": "dbid:AABG0LehM9Im4f6DGBSgWS7r_W8wC8pQQbc",
+                "email": "varun.kulkarni@freshworks.com",
+                "email_verified": false,
+                "secondary_emails": [],
+                "status": {
+                    ".tag": "invited"
+                },
+                "name": {
+                    "given_name": "",
+                    "surname": "",
+                    "familiar_name": "",
+                    "display_name": "",
+                    "abbreviated_name": ""
+                },
+                "membership_type": {
+                    ".tag": "full"
+                },
+                "invited_on": "2020-11-20T11:21:48Z",
+                "groups": [
+                    "g:d0998e584f4615a40000000000000002"
+                ],
+                "member_folder_id": "8698084768"
+            },
+            "role": {
+                ".tag": "team_admin"
+            }
+        }
+    ]
+}

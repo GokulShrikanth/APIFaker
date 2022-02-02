@@ -1,0 +1,255 @@
+{
+  "kind": "admin#directory#users",
+  "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/L1nMSHR53NMhXsuZEcAFzibUxBE\"",
+  "users": [
+    {
+      "kind": "admin#directory#user",
+      "id": "109293672601996696066",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/Cz7a3J0zwV31GqcTedcxjBWiq24\"",
+      "primaryEmail": "admin@freshbugs.com",
+      "name": {
+        "givenName": "admin",
+        "familyName": "admin",
+        "fullName": "admin admin"
+      },
+      "emails": [
+        {
+          "address": "admin@freshbugs.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "wildcard2@freshbugs.com",
+          "type": "manager"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECIK0rKbdv_D8gAEiC3ZjYXJkX3Bob3RvKig4MTI1ODZkYTdiMDIzNTRhODhlYTU1NWNmY2EwNGY2NGQyNWFjZjc1MAHEQCI_B_A9nH9mjMG61TTcwOeOQQ",
+      "thumbnailPhotoEtag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/ByeixOuycS0KhyalFfVu5-8NfDo\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106663288267837706477",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/xlgHPFxUdHMzyAnJ5KRlIqlvFC4\"",
+      "primaryEmail": "bnb.gsuite@freshbugs.com",
+      "name": {
+        "givenName": "bnb",
+        "familyName": "gsuite",
+        "fullName": "bnb gsuite"
+      },
+      "emails": [
+        {
+          "address": "bnb.gsuite@freshbugs.com",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107503165380580696005",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/PGtJ0NY6zveO5HI1qVesF0LMQwg\"",
+      "primaryEmail": "freshchat-automation@freshbugs.com",
+      "name": {
+        "givenName": "Freshchat",
+        "familyName": "Automation",
+        "fullName": "Freshchat Automation"
+      },
+      "emails": [
+        {
+          "address": "freshchat-automation@freshbugs.com",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106387375996277395892",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/OHvJcltNCptMVU9GeeDE9wVla7s\"",
+      "primaryEmail": "freshid@freshbugs.com",
+      "name": {
+        "givenName": "Fresh",
+        "familyName": "ID",
+        "fullName": "Fresh ID"
+      },
+      "emails": [
+        {
+          "address": "freshid@freshbugs.com",
+          "primary": true
+        }
+      ],
+      "addresses": [
+        {
+          "type": "custom",
+          "customType": "",
+          "region": "US"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "Test Job Title",
+          "primary": true,
+          "customType": ""
+        }
+      ],
+      "phones": [
+        {
+          "value": "1231231231",
+          "type": "home"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107495033493189808318",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/NL5u0ttmRXy6pETfzBriEXLY8is\"",
+      "primaryEmail": "freshservice-automation@freshbugs.com",
+      "name": {
+        "givenName": "Freshservice",
+        "familyName": "Automation",
+        "fullName": "Freshservice Automation"
+      },
+      "emails": [
+        {
+          "address": "freshservice-automation@freshbugs.com",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106293946066749105468",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/ekR5yw0LiVt4QgXY53tm9_s_ZpM\"",
+      "primaryEmail": "fsmailbox@freshbugs.com",
+      "name": {
+        "givenName": "fs",
+        "familyName": "mailboxautomation",
+        "fullName": "fs mailboxautomation"
+      },
+      "emails": [
+        {
+          "address": "fsmailbox@freshbugs.com",
+          "primary": true
+        },
+        {
+          "address": "sriram@freshbugs.com"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "100415790906525593356",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/q3r8uBQH-Ydn7UOLpViR0JJqPt4\"",
+      "primaryEmail": "mondie@freshbugs.com",
+      "name": {
+        "givenName": "Mondie",
+        "familyName": ".",
+        "fullName": "Mondie"
+      },
+      "emails": [
+        {
+          "address": "mondie@freshbugs.com",
+          "primary": true
+        },
+        {
+          "address": "wildcard3@freshbugs.com"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "101866903540244213365",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/9ApLipEoagZGuq_qN0plMXzlwEk\"",
+      "primaryEmail": "noyel@freshbugs.com",
+      "name": {
+        "givenName": "Noyel",
+        "familyName": "Christopher",
+        "fullName": "Noyel Christopher"
+      },
+      "emails": [
+        {
+          "address": "noyel@freshbugs.com",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "111412113228206027253",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/f2Mucm05-mVCGdZmn9KEQZa9nSM\"",
+      "primaryEmail": "testuser14@freshbugs.com",
+      "name": {
+        "givenName": "Testuser",
+        "familyName": "14",
+        "fullName": "Testuser 14"
+      },
+      "emails": [
+        {
+          "address": "testuser14@freshbugs.com",
+          "primary": true
+        }
+      ],
+      "addresses": [
+        {
+          "type": "custom",
+          "customType": "",
+          "region": "US"
+        }
+      ],
+      "phones": [
+        {
+          "value": "8878166501",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "115845046594021828088",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/u9h0zaUU9zanD89j9WabWD3tyi0\"",
+      "primaryEmail": "wildcard2@freshbugs.com",
+      "name": {
+        "givenName": "Wildcard2",
+        "familyName": ".",
+        "fullName": "Wildcard2"
+      },
+      "emails": [
+        {
+          "address": "wildcard2@freshbugs.com",
+          "primary": true
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    }
+  ]
+}

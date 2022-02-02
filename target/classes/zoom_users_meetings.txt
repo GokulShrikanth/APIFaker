@@ -1,0 +1,66 @@
+{
+    "from": "2021-01-26",
+    "to": "2021-01-27",
+    "page_count": 0,
+    "page_size": 30,
+    "total_records": 0,
+    "next_page_token": "",
+    "meetings": [
+    {
+      "duration": 27,
+      "end_time": "2021-01-07T06:15:04Z",
+      "host_id": "pmRvWXSDTVS3p1sKsuOG5Q",
+      "id": 86895913541,
+      "participants_count": 3,
+      "start_time": "2021-01-07T05:50:51Z",
+      "topic": "My Meeting",
+      "total_minutes": 27,
+      "type": 2,
+      "user_email": "bnb.gsuite@gmail.com",
+      "user_name": "BNB Zoom integration",
+      "uuid": "xyrcOiScRGGWG8+aYLXbxA=="
+    },
+    {
+      "duration": 12,
+      "end_time": "2021-01-04T06:21:04Z",
+      "host_id": "pmRvWXSDTVS3p1sKsuOG5Q",
+      "id": 86895913542,
+      "participants_count": 3,
+      "start_time": "2021-01-04T05:50:51Z",
+      "topic": "My Meeting",
+      "total_minutes": 12,
+      "type": 2,
+      "user_email": "bnb.gsuite@gmail.com",
+      "user_name": "BNB Zoom integration",
+      "uuid": "xyrcOiScRGGWG8+aYLXbyA=="
+    },
+    {
+      "duration": 5,
+      "end_time": "2021-01-05T06:21:04Z",
+      "host_id": "pmRvWXSDTVS3p1sKsuOG5Q",
+      "id": 86895913543,
+      "participants_count": 3,
+      "start_time": "2021-01-05T05:50:51Z",
+      "topic": "My Meeting",
+      "total_minutes": 5,
+      "type": 2,
+      "user_email": "bnb.gsuite@gmail.com",
+      "user_name": "BNB Zoom integration",
+      "uuid": "xyrcOiScRGGWG8+aYLXbzA=="
+    },
+    {
+      "duration": 42,
+      "end_time": "2021-01-08T06:21:04Z",
+      "host_id": "pmRvWXSDTVS3p1sKsuOG5Q",
+      "id": 86895913544,
+      "participants_count": 3,
+      "start_time": "2021-01-08T05:50:51Z",
+      "topic": "My Meeting",
+      "total_minutes": 42,
+      "type": 2,
+      "user_email": "bnb.gsuite@gmail.com",
+      "user_name": "BNB Zoom integration",
+      "uuid": "xyrcOiScRGGWG8+aYLXbqA=="
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "value": [
+        {
+                    "name": "legion-extradisk",
+                    "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/HEIMDALLS-TEST/providers/Microsoft.Compute/disks/legion-extradisk",
+                    "type": "Microsoft.Compute/disks",
+                    "location": "eastus",
+                    "tags": {
+                        "legion": "dev"
+                    },
+                    "zones": [
+                        "2"
+                    ],
+                    "managedBy": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Heimdalls-Test/providers/Microsoft.Compute/virtualMachines/legion-vm",
+                    "sku": {
+                        "name": "Premium_LRS",
+                        "tier": "Premium"
+                    },
+                    "properties": {
+                        "creationData": {
+                            "createOption": "Empty"
+                        },
+                        "diskSizeGB": 1,
+                        "diskIOPSReadWrite": 120,
+                        "diskMBpsReadWrite": 25,
+                        "encryption": {
+                            "type": "EncryptionAtRestWithPlatformKey"
+                        },
+                        "timeCreated": "2021-07-06T06:39:00.3294057+00:00",
+                        "provisioningState": "Succeeded",
+                        "diskState": "Attached",
+                        "diskSizeBytes": 1073741824,
+                        "uniqueId": "6021738d-42dc-4498-a720-e948474d5ebe",
+                        "networkAccessPolicy": "AllowAll",
+                        "publicNetworkAccess": "Enabled",
+                        "tier": "P1"
+                    }
+                }
+    ],
+    "nextLink":"http://localhost:8084/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/providers/Microsoft.Compute/disks"
+}

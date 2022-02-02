@@ -1,0 +1,249 @@
+{
+    "events": [
+        {
+            "timestamp": "2020-11-24T06:49:30Z",
+            "event_category": {
+                ".tag": "logins"
+            },
+            "actor": {
+                ".tag": "admin",
+                "admin": {
+                    ".tag": "team_member",
+                    "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                    "display_name": "Sumit Sawant",
+                    "email": "sumit.sawant@freshworks.com",
+                    "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+                }
+            },
+            "origin": {
+                "geo_location": {
+                    "city": "Pune",
+                    "region": "Maharashtra",
+                    "country": "IN",
+                    "ip_address": "2409:4042:2e02:84dc:e91d:806a:3d31:cdaa"
+                },
+                "access_method": {
+                    ".tag": "end_user",
+                    "end_user": {
+                        ".tag": "web",
+                        "session_id": "dbwsid:38046716692365813545330386052991934538"
+                    }
+                }
+            },
+            "involve_non_team_member": false,
+            "context": {
+                ".tag": "team_member",
+                "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                "display_name": "Sumit Sawant",
+                "email": "sumit.sawant@freshworks.com",
+                "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+            },
+            "participants": [],
+            "assets": [],
+            "event_type": {
+                ".tag": "login_success",
+                "description": "Signed in"
+            },
+            "details": {
+                ".tag": "login_success_details",
+                "is_emm_managed": false,
+                "login_method": {
+                    ".tag": "password"
+                }
+            }
+        },
+        {
+            "timestamp": "2020-11-24T09:35:01Z",
+            "event_category": {
+                ".tag": "devices"
+            },
+            "actor": {
+                ".tag": "admin",
+                "admin": {
+                    ".tag": "team_member",
+                    "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                    "display_name": "Sumit Sawant",
+                    "email": "sumit.sawant@freshworks.com",
+                    "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+                }
+            },
+            "origin": {
+                "geo_location": {
+                    "city": "Pune",
+                    "region": "Maharashtra",
+                    "country": "IN",
+                    "ip_address": "2409:4042:2e2a:1ceb:ade0:cf62:8f17:fd5c"
+                },
+                "access_method": {
+                    ".tag": "end_user",
+                    "end_user": {
+                        ".tag": "web",
+                        "session_id": ""
+                    }
+                }
+            },
+            "involve_non_team_member": false,
+            "context": {
+                ".tag": "team_member",
+                "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                "display_name": "Sumit Sawant",
+                "email": "sumit.sawant@freshworks.com",
+                "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+            },
+            "participants": [],
+            "assets": [],
+            "event_type": {
+                ".tag": "device_change_ip_web",
+                "description": "Changed IP address associated with active web session"
+            },
+            "details": {
+                ".tag": "device_change_ip_web_details",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+            }
+        },
+        {
+            "timestamp": "2020-11-24T10:45:11Z",
+            "event_category": {
+                ".tag": "devices"
+            },
+            "actor": {
+                ".tag": "admin",
+                "admin": {
+                    ".tag": "team_member",
+                    "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                    "display_name": "Sumit Sawant",
+                    "email": "sumit.sawant@freshworks.com",
+                    "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+                }
+            },
+            "origin": {
+                "geo_location": {
+                    "city": "Pune",
+                    "region": "Maharashtra",
+                    "country": "IN",
+                    "ip_address": "2405:204:961f:fc98:a5b3:c95:6acb:3331"
+                },
+                "access_method": {
+                    ".tag": "end_user",
+                    "end_user": {
+                        ".tag": "web",
+                        "session_id": ""
+                    }
+                }
+            },
+            "involve_non_team_member": false,
+            "context": {
+                ".tag": "team_member",
+                "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                "display_name": "Sumit Sawant",
+                "email": "sumit.sawant@freshworks.com",
+                "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+            },
+            "participants": [],
+            "assets": [],
+            "event_type": {
+                ".tag": "device_change_ip_web",
+                "description": "Changed IP address associated with active web session"
+            },
+            "details": {
+                ".tag": "device_change_ip_web_details",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+            }
+        },
+        {
+            "timestamp": "2020-11-24T11:47:45Z",
+            "event_category": {
+                ".tag": "apps"
+            },
+            "actor": {
+                ".tag": "admin",
+                "admin": {
+                    ".tag": "team_member",
+                    "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                    "display_name": "Sumit Sawant",
+                    "email": "sumit.sawant@freshworks.com",
+                    "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+                }
+            },
+            "origin": {
+                "geo_location": {
+                    "city": "Pune",
+                    "region": "Maharashtra",
+                    "country": "IN",
+                    "ip_address": "2405:204:961f:fc98:a5b3:c95:6acb:3331"
+                },
+                "access_method": {
+                    ".tag": "api",
+                    "request_id": "dbarid:54e7eb86b53057bdbb33c53a68e02edd"
+                }
+            },
+            "involve_non_team_member": false,
+            "context": {
+                ".tag": "team"
+            },
+            "participants": [],
+            "assets": [],
+            "event_type": {
+                ".tag": "app_link_team",
+                "description": "Linked app for team"
+            },
+            "details": {
+                ".tag": "app_link_team_details",
+                "app_info": {
+                    ".tag": "team_linked_app",
+                    "app_id": "dbaid:AAAYOfSCXytQk8YYwpjDrkux3b86ybKLnnw",
+                    "display_name": "Direct Interation App"
+                }
+            }
+        },
+        {
+            "timestamp": "2020-11-24T15:14:30Z",
+            "event_category": {
+                ".tag": "devices"
+            },
+            "actor": {
+                ".tag": "admin",
+                "admin": {
+                    ".tag": "team_member",
+                    "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                    "display_name": "Sumit Sawant",
+                    "email": "sumit.sawant@freshworks.com",
+                    "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+                }
+            },
+            "origin": {
+                "geo_location": {
+                    "city": "Pune",
+                    "region": "Maharashtra",
+                    "country": "IN",
+                    "ip_address": "49.35.72.140"
+                },
+                "access_method": {
+                    ".tag": "end_user",
+                    "end_user": {
+                        ".tag": "web",
+                        "session_id": ""
+                    }
+                }
+            },
+            "involve_non_team_member": false,
+            "context": {
+                ".tag": "team_member",
+                "account_id": "dbid:AABSTVsmkWx7tQJ_lK6R1pjoIFlClFXg7vw",
+                "display_name": "Sumit Sawant",
+                "email": "sumit.sawant@freshworks.com",
+                "team_member_id": "dbmid:AADYZfHHnpP-3mtcqoyFxu-Yi3YqSDGaAZQ"
+            },
+            "participants": [],
+            "assets": [],
+            "event_type": {
+                ".tag": "device_change_ip_web",
+                "description": "Changed IP address associated with active web session"
+            },
+            "details": {
+                ".tag": "device_change_ip_web_details",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+            }
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+  "activity_logs": [
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-25T14:39:42Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "157.34.112.192",
+      "time": "2021-01-22T13:55:45Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "157.34.139.228",
+      "time": "2021-01-22T08:23:20Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "vnsidhaarth@gmail.com",
+      "ip_address": "49.205.79.92",
+      "time": "2021-01-20T19:38:37Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "49.205.79.92",
+      "time": "2021-01-20T19:10:30Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-20T13:25:58Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-19T12:12:41Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "27.57.13.49",
+      "time": "2021-01-15T11:11:02Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "13.234.188.229",
+      "time": "2021-01-12T14:47:41Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "14.98.113.242",
+      "time": "2021-01-12T12:18:23Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-12T09:38:14Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-12T07:09:02Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-12T07:08:43Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "14.98.113.242",
+      "time": "2021-01-11T13:52:21Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-11T12:06:36Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "182.73.13.166",
+      "time": "2021-01-10T11:35:00Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "148.251.184.155",
+      "time": "2021-01-10T01:20:42Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "148.251.184.155",
+      "time": "2021-01-09T01:21:44Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "148.251.184.155",
+      "time": "2021-01-08T01:19:22Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "182.73.13.166",
+      "time": "2021-01-07T11:20:32Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-07T10:50:50Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-07T10:50:33Z",
+      "type": "Sign out",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "13.234.188.229",
+      "time": "2021-01-07T09:14:22Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "mac",
+      "email": "zero-journey.ffwfs85e@mailosaur.io",
+      "ip_address": "182.73.13.166",
+      "time": "2021-01-07T07:00:31Z",
+      "type": "Sign out",
+      "version": "5.4.59780.1220"
+    },
+    {
+      "client_type": "mac",
+      "email": "zero-journey.ffwfs85e@mailosaur.io",
+      "ip_address": "182.73.13.166",
+      "time": "2021-01-07T06:28:06Z",
+      "type": "Sign in",
+      "version": "5.4.59780.1220"
+    },
+    {
+      "client_type": "Browser",
+      "email": "zero-journey.ffwfs85e@mailosaur.io",
+      "ip_address": "152.57.212.1",
+      "time": "2021-01-07T06:04:10Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "mac",
+      "email": "zero-journey.ffwfs85e@mailosaur.io",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-07T05:58:27Z",
+      "type": "Sign in",
+      "version": "5.4.59296.1207"
+    },
+    {
+      "client_type": "Browser",
+      "email": "zero-simple.ffwfs85e@mailosaur.io",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-07T05:52:47Z",
+      "type": "Sign out",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "zero-simple.ffwfs85e@mailosaur.io",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-07T05:52:36Z",
+      "type": "Sign in",
+      "version": "-"
+    },
+    {
+      "client_type": "Browser",
+      "email": "bnb.gsuite@gmail.com",
+      "ip_address": "115.112.69.51",
+      "time": "2021-01-07T05:23:40Z",
+      "type": "Sign in",
+      "version": "-"
+    }
+  ],
+  "from": "2020-12-26",
+  "next_page_token": "ehFFKTgEJYw27K6Fo6cq40PUqnlDbZvu5N2",
+  "page_size": 30,
+  "to": "2021-01-26"
+}

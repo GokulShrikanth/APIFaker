@@ -1,0 +1,34 @@
+{
+    "value": [
+        {
+            "name": "legion-ip",
+            "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Heimdalls-Test/providers/Microsoft.Network/publicIPAddresses/legion-ip",
+            "etag": "W/\"4a04a1aa-ba68-47ae-b313-3de91bb191a3\"",
+            "location": "eastus",
+            "tags": {
+                "legion": "dev"
+            },
+            "zones": [
+                "2"
+            ],
+            "properties": {
+                "provisioningState": "Succeeded",
+                "resourceGuid": "945ba786-d533-49be-aa13-4b94a6e49d52",
+                "ipAddress": "20.84.48.47",
+                "publicIPAddressVersion": "IPv4",
+                "publicIPAllocationMethod": "Static",
+                "idleTimeoutInMinutes": 4,
+                "ipTags": [],
+                "ipConfiguration": {
+                    "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Heimdalls-Test/providers/Microsoft.Network/networkInterfaces/legion-vm-2427/ipConfigurations/ipconfig1"
+                }
+            },
+            "type": "Microsoft.Network/publicIPAddresses",
+            "sku": {
+                "name": "Standard",
+                "tier": "Regional"
+            }
+        }
+    ],
+    "nextLink":"http://localhost:8084/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/providers/Microsoft.Network/publicIPAddresses"
+}

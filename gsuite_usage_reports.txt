@@ -1,0 +1,25 @@
+{
+  "kind": "admin#reports#usageReports",
+  "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/pj-dF7zzZhBF-aqAqh4D5dzg_qg\"",
+  "usageReports": [
+    {
+      "kind": "admin#reports#usageReport",
+      "date": "2021-01-23",
+      "etag": "\"SufirFaIdnXcAYyccJv5NcnrW-2MxfeibFufd9OA5qw/pkEXnNvnr-Su78PMQ-LH91ClLEc\"",
+      "entity": {
+        "type": "CUSTOMER",
+        "customerId": "C04ksivtl"
+      },
+      "parameters": [
+        {
+          "name": "accounts:gsuite_basic_total_licenses",
+          "intValue": "12"
+        },
+        {
+          "name": "accounts:gsuite_basic_used_licenses",
+          "intValue": "10"
+        }
+      ]
+    }
+  ]
+}

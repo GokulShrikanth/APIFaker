@@ -1,0 +1,28 @@
+{
+    "name": "STARFORCE FW DEV",
+    "team_id": "dbtid:AABdQ8CP3WZ8Uj0HRBO0Ohb-glFnYluto64",
+    "num_licensed_users": 3,
+    "num_provisioned_users": 3,
+    "policies": {
+        "sharing": {
+            "shared_folder_member_policy": {
+                ".tag": "anyone"
+            },
+            "shared_folder_join_policy": {
+                ".tag": "from_anyone"
+            },
+            "shared_link_create_policy": {
+                ".tag": "default_public"
+            }
+        },
+        "emm_state": {
+            ".tag": "disabled"
+        },
+        "office_addin": {
+            ".tag": "enabled"
+        },
+        "suggest_members_policy": {
+            ".tag": "enabled"
+        }
+    }
+}

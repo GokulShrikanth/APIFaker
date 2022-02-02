@@ -1,0 +1,47 @@
+{
+    "value": [
+        {
+            "name": "network-interface",
+            "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Freshworks-Infrastructure-US-RG/providers/Microsoft.Network/networkInterfaces/network-interface",
+            "etag": "W/\"9e8d5134-ac02-4c66-b977-076c9a0ff09e\"",
+            "location": "westus",
+            "properties": {
+                "provisioningState": "Succeeded",
+                "resourceGuid": "bcc65013-7a86-4e69-8350-399c0708c391",
+                "ipConfigurations": [
+                    {
+                        "name": "ipconfig1",
+                        "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Freshworks-Infrastructure-US-RG/providers/Microsoft.Network/networkInterfaces/apac-onboarding-priv15/ipConfigurations/ipconfig1",
+                        "etag": "W/\"9e8d5134-ac02-4c66-b977-076c9a0ff09e\"",
+                        "type": "Microsoft.Network/networkInterfaces/ipConfigurations",
+                        "properties": {
+                            "provisioningState": "Succeeded",
+                            "privateIPAddress": "10.189.182.4",
+                            "privateIPAllocationMethod": "Dynamic",
+                            "subnet": {
+                                "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Freshworks-Infrastructure-US-RG/providers/Microsoft.Network/virtualNetworks/FWVNET-US/subnets/US-Privatesubnet"
+                            },
+                            "primary": true,
+                            "privateIPAddressVersion": "IPv4"
+                        }
+                    }
+                ],
+                "dnsSettings": {
+                    "dnsServers": [],
+                    "appliedDnsServers": []
+                },
+                "macAddress": "00-22-48-04-57-24",
+                "enableAcceleratedNetworking": false,
+                "enableIPForwarding": false,
+                "networkSecurityGroup": {
+                    "id": "/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/resourceGroups/Freshworks-Infrastructure-US-RG/providers/Microsoft.Network/networkSecurityGroups/APAC-Onboarding-private-nsg"
+                },
+                "hostedWorkloads": [],
+                "tapConfigurations": [],
+                "nicType": "Standard"
+            },
+            "type": "Microsoft.Network/networkInterfaces"
+        }
+        ],
+        "nextLink":"http://localhost:8084/subscriptions/71bbd9e7-6c47-4abc-8eca-12871d14cbcd/providers/Microsoft.Network/networkInterfaces"
+}
